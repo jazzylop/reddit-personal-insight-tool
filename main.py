@@ -14,7 +14,7 @@ import sys
 # AFTER API APPROVAL, REPLACE THESE:
 CLIENT_ID = "YOUR_CLIENT_ID_HERE"
 CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
-USER_AGENT = "PersonalInsightTool/1.0 (by u/Past_North_9129; local personal read-only script)"
+USER_AGENT = "PersonalInsightTool/1.0 (by u/Physical-Honey-1623; local personal read-only script)"
 
 # Small fixed list of subreddits you actually use
 SUBREDDITS = [
