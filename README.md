@@ -33,4 +33,4 @@ This project complies with Reddit’s Responsible Builder Policy.
 ## Status
 WIP – awaiting Reddit Data API approval to test live functionality.
 
-Created for u/Past_North_9129
+Created for u/Physical-Honey-1623
